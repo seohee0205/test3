@@ -7,6 +7,10 @@ public class Test1 {
 
 		System.out.println("hihi");
 		
+		System.out.println("어떠케될가요");
+		
+		System.out.println("인코딩 설정 완료 함 !");
+		
 	}
 
 }
